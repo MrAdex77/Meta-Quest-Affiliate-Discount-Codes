@@ -1,14 +1,104 @@
 {
-  "device": [
+  "metadata": {
+    "lastUpdated": "2025-12-25",
+    "author": "Adex77",
+    "description": "Meta Quest discount codes and affiliate referral links for games, apps, and hardware",
+    "friendLink": "https://horizon.meta.com/profile/146241885249857/?hwsh=IGji8IjCf2"
+  },
+  "hardware": [
     {
-      "name": "Quest 3/3S",
+      "name": "Meta Quest 3",
       "link": "https://www.meta.com/referrals/link/Adex77",
-      "credit": 30
+      "discount": "$30 Store Credit",
+      "description": "Get $30 Meta Store credit when you purchase Meta Quest 3"
+    },
+    {
+      "name": "Meta Quest 3S",
+      "link": "https://www.meta.com/referrals/link/Adex77",
+      "discount": "$30 Store Credit",
+      "description": "Get $30 Meta Store credit when you purchase Meta Quest 3S"
     }
   ],
   "games": [
-    { "name": "Beat Saber", "link": "https://www.meta.com/appreferrals/Adex77/2448060205267927", "discount": 25 },
-    { "name": "Eleven Table Tennis", "link": "https://www.meta.com/appreferrals/Adex77/1995434190525828", "discount": 25 },
-    { "name": "Asgard Wrath 2", "link": "https://www.meta.com/appreferrals/Adex77/2603836099654226", "discount": 25 }
+    {
+      "name": "Beat Saber",
+      "link": "https://www.meta.com/appreferrals/Adex77/2448060205267927",
+      "discount": "Up to 25%",
+      "category": "Rhythm"
+    },
+    {
+      "name": "Asgard's Wrath 2",
+      "link": "https://www.meta.com/appreferrals/Adex77/2603836099654226",
+      "discount": "Up to 25%",
+      "category": "Action RPG"
+    },
+    {
+      "name": "Eleven Table Tennis",
+      "link": "https://www.meta.com/appreferrals/Adex77/1995434190525828",
+      "discount": "Up to 25%",
+      "category": "Sports"
+    },
+    {
+      "name": "The Walking Dead: Saints & Sinners",
+      "link": "https://www.meta.com/appreferrals/Adex77/2897337400373711",
+      "discount": "Up to 25%",
+      "category": "Horror/Survival"
+    },
+    {
+      "name": "Moss: Book II",
+      "link": "https://www.meta.com/appreferrals/Adex77/4395292760584049",
+      "discount": "Up to 25%",
+      "category": "Adventure/Puzzle"
+    },
+    {
+      "name": "Green Hell VR",
+      "link": "https://www.meta.com/appreferrals/Adex77/3815577785147028",
+      "discount": "Up to 25%",
+      "category": "Survival"
+    },
+    {
+      "name": "Superhot VR",
+      "link": "https://www.meta.com/appreferrals/Adex77/1921533091289407",
+      "discount": "Up to 25%",
+      "category": "Action"
+    },
+    {
+      "name": "Job Simulator",
+      "link": "https://www.meta.com/appreferrals/Adex77/3235570703151406",
+      "discount": "Up to 25%",
+      "category": "Simulation"
+    },
+    {
+      "name": "Pistol Whip",
+      "link": "https://www.meta.com/appreferrals/Adex77/2104963472963790",
+      "discount": "Up to 25%",
+      "category": "Rhythm/Action"
+    },
+    {
+      "name": "Arizona Sunshine 2",
+      "link": "https://www.meta.com/appreferrals/Adex77/5765710433480653",
+      "discount": "Up to 25%",
+      "category": "Horror/Shooter"
+    }
+  ],
+  "apps": [
+    {
+      "name": "Virtual Desktop",
+      "link": "https://www.meta.com/appreferrals/Adex77/2017050365004772",
+      "discount": "Up to 25%",
+      "category": "Productivity"
+    },
+    {
+      "name": "Wander",
+      "link": "https://www.meta.com/appreferrals/Adex77/2078376005587859",
+      "discount": "Up to 25%",
+      "category": "Exploration"
+    },
+    {
+      "name": "Bigscreen",
+      "link": "https://www.meta.com/appreferrals/Adex77/1470173869674975",
+      "discount": "Up to 25%",
+      "category": "Entertainment"
+    }
   ]
 }
